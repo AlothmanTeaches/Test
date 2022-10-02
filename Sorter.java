@@ -1,11 +1,6 @@
 import java.util.Arrays;
 
 public class Sorter{
-<<<<<<< HEAD
-    public static void stringSorter(String[] array){
-        System.out.println("test");
-        for(int i= 0;i<array.length ;i++);
-=======
     public static void stringSorter(String[] arr){
         int n = arr.length;
  
@@ -22,7 +17,6 @@ public class Sorter{
             arr[min_idx] = arr[i];
             arr[i] = temp;
         }
->>>>>>> createSorter
     }
 
     public static void main(String[] args) {
