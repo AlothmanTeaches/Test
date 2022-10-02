@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Sorter{
     public static void stringSorter(String[] array){
         System.out.println("test");
+        
     }
 
     public static void main(String[] args) {
