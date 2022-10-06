@@ -26,6 +26,7 @@ public class Sorter{
 
         stringSorter(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("Test");
     }
 
 }
